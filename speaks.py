@@ -1,4 +1,4 @@
-# Python SAPI Voice
+# Python SAPI Voice for Windows
 import win32com.client
 
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
