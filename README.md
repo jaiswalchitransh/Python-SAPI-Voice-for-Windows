@@ -57,4 +57,4 @@ Please ensure your contributions adhere to the coding standards and follow the e
 
 ---
 
-Thank you for your interest in the Python SAPI Voice for Windows. 
+Thank you for your interest in the Python SAPI Voice for Windows!
