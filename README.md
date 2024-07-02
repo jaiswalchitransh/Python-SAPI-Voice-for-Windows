@@ -22,7 +22,9 @@ To set up the project:
 
 3. Open the project in your preferred Python environment (e.g., IDE or terminal).
 4. Install win32com library using pip:
-      - pip install pypiwin32
+   
+            pip install pypiwin32
+
 5. Run the script (`speaks.py`) and observe the output.
 
 
