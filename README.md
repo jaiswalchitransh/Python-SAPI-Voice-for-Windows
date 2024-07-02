@@ -19,7 +19,9 @@ To set up the project:
 2. Clone or download the repository to your local machine.
       - git clone <https://github.com/jaiswalchitransh/Python-SAPI-Voice-for-Windows>
 4. Open the project in your preferred Python environment (e.g., IDE or terminal).
-5. Run the script (`speaks.py`) and observe the output.
+6. Install win32com library using pip:
+      - pip install pypiwin32
+7. Run the script (`speaks.py`) and observe the output.
 
 
 ## Usage
