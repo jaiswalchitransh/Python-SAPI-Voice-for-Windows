@@ -17,7 +17,9 @@ This project requires Python 3.12.1 or later.
 To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
-      - git clone <https://github.com/jaiswalchitransh/Python-SAPI-Voice-for-Windows>
+
+            git clone <https://github.com/jaiswalchitransh/Python-SAPI-Voice-for-Windows>
+
 4. Open the project in your preferred Python environment (e.g., IDE or terminal).
 6. Install win32com library using pip:
       - pip install pypiwin32
@@ -27,7 +29,7 @@ To set up the project:
 ## Usage
 Ensure Python 3.x is installed. Run the script:
 
-- python speaks.py
+            python speaks.py
   
 - Enter words or phrases when prompted. Each input will be spoken aloud immediately.
 - To stop the program, type "-1" and press Enter.
@@ -42,6 +44,15 @@ Ensure Python 3.x is installed. Run the script:
 ## Contribution
 I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
-- Fork the repository
-- Make your changes
-- Submit a pull request
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature`).
+6. Create a new Pull Request.
+
+Please ensure your contributions adhere to the coding standards and follow the existing style and structure.
+
+---
+
+Thank you for your interest in the Python SAPI Voice for Windows. 
