@@ -1,4 +1,4 @@
-# Python-SAPI-Voice-for-Windows
+# Python SAPI Voice for Windows
 
 ## Table of Contents
 - [Project Overview](#project-overview)
